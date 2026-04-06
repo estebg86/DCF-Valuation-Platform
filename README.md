@@ -251,7 +251,7 @@ Improvements welcome! Focus areas:
 2. **Deploy**: Follow the 3 steps
 3. **Test**: Value MSFT
 4. **Customize**: Adjust assumptions
-5. **Share**: Send URL to colleagues!
+5. **Share**: Send URL to colleagues! 
 
 ---
 
